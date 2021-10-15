@@ -1,0 +1,11 @@
+.nav-wrapper {
+    margin-top: 22px;
+
+    a {
+        margin: 10px;
+    }
+
+    a.active {
+        text-decoration: underline;
+    }
+}

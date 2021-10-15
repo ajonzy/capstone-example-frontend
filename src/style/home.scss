@@ -1,0 +1,15 @@
+.home-wrapper {
+    .home-buttons-wrapper {
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            border: 1px solid black;
+            border-radius: 5px;
+            padding: 10px;
+            width: 135px;
+            text-align: center;
+            background-color: white;
+        }
+    }
+}
