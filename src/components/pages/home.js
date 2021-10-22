@@ -7,7 +7,7 @@ export default function Home() {
             <h1>Welcome to my store!</h1>
             <div className="home-buttons-wrapper">
                 <Link to="/items">See all my items</Link>
-                <Link to="/add item">Add an item</Link>
+                <Link to="/add-item">Add an item</Link>
             </div>
         </div>
     )
